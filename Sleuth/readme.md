@@ -1,4 +1,4 @@
-## 3Sleuth
+# Sleuth
 
 Vasya plays the sleuth with his friends. The rules of the game  are as follows: those who play for the first time, that is Vasya is the  sleuth, he should investigate a "crime" and find out what is happening.  He can ask any questions whatsoever that can be answered with "Yes" or  "No". All the rest agree beforehand to answer the questions like that:  if the question’s last letter is a vowel, they answer "Yes" and if the  last letter is a consonant, they answer "No". Of course, the sleuth  knows nothing about it and his task is to understand that.
 
