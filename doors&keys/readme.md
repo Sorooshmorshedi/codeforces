@@ -1,4 +1,5 @@
 # Doors and Keys
+https://codeforces.com/problemset/problem/1644/A
 
 The knight is standing in front of a long and narrow hallway. A princess is waiting at the end of it.
 
